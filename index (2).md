@@ -101,6 +101,7 @@ Here’s an organized list of key cybersecurity terms:
 This Python script organizes files in a folder by their file types, creating separate directories for each type.
 
 ```python
+
 import os
 import shutil
 
