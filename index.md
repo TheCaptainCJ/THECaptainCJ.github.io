@@ -1,7 +1,5 @@
 
 ---
-layout: default
----
 
 # Chris's Cybersecurity Portfolio
 
