@@ -33,7 +33,6 @@ Here are some useful links related to my work and learning:
 
 ## Certifications
 
-### CompTIA A+
 ![Screenshot 1](PICofA+cert.png)
 
 ---
