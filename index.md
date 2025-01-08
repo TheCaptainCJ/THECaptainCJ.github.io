@@ -42,7 +42,7 @@ Here are some useful links related to my work and learning:
 ### Cybersecurity Incident Report: Network Traffic Analysis
 
 - **Summary**: Provides a detailed analysis of DNS and ICMP traffic issues, including troubleshooting steps and mitigation strategies.
-- [View Document](path/to/Cybersecurity-incident-report-exemplar-network-traffic-analysis.docx)
+- [View Document](Cybersecurity-incident-report-network-traffic-analysis.docx)
 
 ### Network Documentation Assignment
 
