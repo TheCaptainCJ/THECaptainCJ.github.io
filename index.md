@@ -1,7 +1,8 @@
 
 ---
 
-# Chris's Cybersecurity Portfolio
+# Cybersecurity Portfolio 
+![Screenshot 1](RenderedI.jpg)
 
 *Showcase My Skills for My Future Employer*
 
@@ -21,11 +22,11 @@ Here are some useful links related to my work and learning:
 
 ### Project Screenshot 1
 
-
+![Screenshot 1](5428a6130dd0aa71e5cee0e4fb2db745.jpeg)
 
 ### Project Screenshot 2
 
-
+![Screenshot 1](Write_Lists_and_Modify_Them.png)
 
 *Add more images as needed to highlight your projects.*
 
