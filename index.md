@@ -1,8 +1,7 @@
-
+![Screenshot 1](RenderedI.jpg)
 ---
 
 # Cybersecurity Portfolio 
-![Screenshot 1](RenderedI.jpg)
 
 *Showcase My Skills for My Future Employer*
 
@@ -12,19 +11,19 @@
 
 Here are some useful links related to my work and learning:
 
-- [GitHub](https://github.com/yourusername)
-- [LinkedIn](https://linkedin.com/in/yourprofile)
-- [TryHackMe Profile](https://tryhackme.com/p/yourprofile)
+- [GitHub](https://github.com/TheCaptainCJ)
+- [LinkedIn](https://www.linkedin.com/in/christopherokeefe93/)
+- [TryHackMe Profile](https://tryhackme.com/p/Chritikal)
 
 ---
 
 ## Photos/Screenshots
 
-### Project Screenshot 1
+### Meme Screenshot 1
 
 ![Screenshot 1](5428a6130dd0aa71e5cee0e4fb2db745.jpeg)
 
-### Project Screenshot 2
+### Python Screenshot 2
 
 ![Screenshot 1](Write_Lists_and_Modify_Them.png)
 
