@@ -48,7 +48,7 @@ Here are some useful links related to my work and learning:
 ### Network Documentation Assignment
 
 - **Overview**: Comprehensive documentation of network devices, configurations, and security policies for a fictional enterprise environment.
-- [View Document](index.md)
+- [View Document](My_Network_Documentation_assignment.docx)
 
 ---
 
