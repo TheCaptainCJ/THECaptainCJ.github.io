@@ -1,4 +1,4 @@
-![Screenshot 1](RenderedI.jpg)
+![Screenshot 1](PIXECT-20250130152049.jpg)
 ---
 
 # Cybersecurity Portfolio 
