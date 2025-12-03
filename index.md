@@ -1,4 +1,3 @@
-![Screenshot 1]()
 ---
 
 # Cybersecurity Portfolio 
@@ -25,7 +24,6 @@ Here are some useful links related to my work and learning:
 
 ### 
 
-![Screenshot 1](Malware notification.png)
 
 *Add more images as needed to highlight your projects.*
 
@@ -41,8 +39,14 @@ Here are some useful links related to my work and learning:
 
 ### Cybersecurity Incident Report: Network Traffic Analysis
 
-- **Summary**: Provides a detailed analysis of DNS and ICMP traffic issues, including troubleshooting steps and mitigation strategies.
+- **Summary**: Provides a detailed Report I made on how to safely deal with Malware.
 - [View Document](Chris_OKeefe_Malware_Analysis_Complete.docx)
+
+### SoloarWinds Malware Assignment
+
+- **Summary**: Provides an understanding of what to do when you need to find malware through code.
+- [View Document](PK)
+
 
 ### Network Documentation Assignment
 
