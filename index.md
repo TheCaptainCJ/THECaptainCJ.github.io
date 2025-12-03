@@ -17,11 +17,13 @@ Here are some useful links related to my work and learning:
 
 ---
 
-## Photos/Screenshots
+## My Work
 
-### Meme Screenshot 1
+### Malware Analysis Screenshots
 
-![Screenshot 1](5428a6130dd0aa71e5cee0e4fb2db745.jpeg)
+![Screenshot 1](5428a6130dd0aa71e5cee0e4fb2db745.jpeg) ![Screenshot 2]()
+![Screenshot 1]() ![Screenshot 1]()
+
 
 ### 
 
