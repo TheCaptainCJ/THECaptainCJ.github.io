@@ -1,7 +1,7 @@
-# Leveling up Cybersecurity skills
+
 ---
 
-# Cybersecurity Portfolio 
+# Cybersecurity Portfolio: Leveling up Cybersecurity skills
 
 *Showcase My Skills for My Future Employer*
 
