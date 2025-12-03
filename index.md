@@ -11,7 +11,6 @@
 
 Here are some useful links related to my work and learning:
 
-- [GitHub](https://github.com/TheCaptainCJ)
 - [LinkedIn](https://www.linkedin.com/in/christopherokeefe93/)
 - [TryHackMe Profile](https://tryhackme.com/p/Chritikal)
 
@@ -19,22 +18,27 @@ Here are some useful links related to my work and learning:
 
 ## My Work
 
-### Malware Analysis Screenshots
+### Malware Analysis for SolarWinds Malware
 
+*Malware showcasing Businesslayer*
 ![Screenshot 1](Malware.png)
-
+*Malware businessimprovelayer domains*
 ![Screenshot 2](Malware_domain.png)
+*Malware backdoor*
+![Screenshot 3](Malware_backdoor.png)
 
-### 
+### SoloarWinds Malware Assignment
 
-
-*Add more images as needed to highlight your projects.*
+- **Summary**: Provides an understanding of what to do when you need to find malware through code.
+- [View Document](Malware_assignment.docx)
 
 ---
 
 ## Certifications
 
 ![Screenshot 1](PICofA+cert.png)
+
+*Looking to get more in the future!*
 
 ---
 
