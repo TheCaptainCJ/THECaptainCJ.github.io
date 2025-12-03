@@ -3,6 +3,7 @@
 
 ---
 
+
 ## Links
 
 Here are some useful links related to my work and learning:
@@ -12,6 +13,7 @@ Here are some useful links related to my work and learning:
 - [TryHackMe Profile](https://tryhackme.com/p/Chritikal) *TryHackme is a place I use to keep learning and growing*
 
 ---
+
 
 ### Malware Analysis for SolarWinds Malware (DnSpy)
 
@@ -31,6 +33,7 @@ Here are some useful links related to my work and learning:
 
 ---
 
+
 ### Wireshark Analysis
 
 ![Screenshot 1](Wireshark_1.png)
@@ -39,17 +42,20 @@ Here are some useful links related to my work and learning:
 
 ---
 
+
 ### Pestudio Assessment
 
 ![Screenshot 1](PeStudio_Notes.png)
 
 ---
 
+
 ### IDA Example
 
 ![Screenshot 1](IDA.png)
 
 ---
+
 
 ## Certifications
 
@@ -58,6 +64,7 @@ Here are some useful links related to my work and learning:
 *Looking to get more in the future!*
 
 ---
+
 
 ## Project Documents
 
@@ -72,6 +79,7 @@ Here are some useful links related to my work and learning:
 - [View Document](My_Network_Documentation_assignment.docx)
 
 ---
+
 
 ## Skills
 
@@ -88,4 +96,4 @@ Here are the classes I studied (Cybersecurity Bachelors)
 
 ---
 
-*This portfolio is designed to demonstrate my skills and capabilities in cybersecurity, paving the way for my professional journey.*
+## *This portfolio is designed to demonstrate my skills and capabilities in cybersecurity, paving the way for my professional journey.*
