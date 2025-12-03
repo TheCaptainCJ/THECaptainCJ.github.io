@@ -1,6 +1,6 @@
 # Cybersecurity Portfolio
 
-*Showcase My work for My Future Employer by leveling up Cybersecurity skills*
+*Showcase my work for my future employer by leveling up Cybersecurity skills*
 
 ---
 
