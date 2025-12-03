@@ -23,9 +23,9 @@ Here are some useful links related to my work and learning:
 
 ![Screenshot 1](5428a6130dd0aa71e5cee0e4fb2db745.jpeg)
 
-### Python Screenshot 2
+### 
 
-![Screenshot 1](Write_Lists_and_Modify_Them.png)
+![Screenshot 1]()
 
 *Add more images as needed to highlight your projects.*
 
@@ -93,29 +93,12 @@ Here’s an organized list of key cybersecurity terms:
 
 ---
 
-## File Organizer Python Script
 
-This Python script organizes files in a folder by their file types, creating separate directories for each type.
 
-```python
 
-import os
-import shutil
 
-def organize_files(directory):
-    for filename in os.listdir(directory):
-        file_extension = filename.split('.')[-1]
-        folder = os.path.join(directory, file_extension)
-        if not os.path.exists(folder):
-            os.makedirs(folder)
-        shutil.move(os.path.join(directory, filename), folder)
 
-if __name__ == "__main__":
-    organize_files("path_to_your_folder")
-    print("Files organized by type!")
-```
-
-[View on GitHub](https://github.com/yourusername/file-organizer) | [Download Script](path/to/file-organizer.py)
+[View on GitHub](https://github.com/yourusername/file-organizer) | [Download Script]()
 
 ---
 
