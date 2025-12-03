@@ -11,7 +11,7 @@
 
 Here are some useful links related to my work and learning:
 
-- [LinkedIn](https://www.linkedin.com/in/christopherokeefe93/) *Try to stay connect online network*
+- [LinkedIn](https://www.linkedin.com/in/christopherokeefe93/) *Try to stay connect in a online network*
 - [TryHackMe Profile](https://tryhackme.com/p/Chritikal) *TryHackme is a place I use to keep learning and growing*
 ---
 
