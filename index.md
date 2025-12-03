@@ -1,6 +1,5 @@
 # Cybersecurity Portfolio
-
-*Showcase my work for my future employer by leveling up Cybersecurity skills*
+(*Showcase my work for my future employer by leveling up Cybersecurity skills*)
 
 ---
 
@@ -11,9 +10,8 @@ Here are some useful links related to my work and learning:
 - [LinkedIn](https://www.linkedin.com/in/christopherokeefe93/) *Try to stay connect in a online network*
 
 - [TryHackMe Profile](https://tryhackme.com/p/Chritikal) *TryHackme is a place I use to keep learning and growing*
----
 
-## My Work
+---
 
 ### Malware Analysis for SolarWinds Malware (DnSpy)
 
@@ -31,15 +29,21 @@ Here are some useful links related to my work and learning:
 - **Summary**: Provides an understanding of what to do when you need to find malware through code on dnspy.
 - [View Document](Malware_assignment.docx)
 
+---
+
 ### Wireshark Analysis
 
 ![Screenshot 1](Wireshark_1.png)
 ![Screenshot 2](Wireshark_2_reset.png)
 ![Screenshot 3](Wireshark_3.png)
 
+---
+
 ### Pestudio Assessment
 
 ![Screenshot 1](PeStudio_Notes.png)
+
+---
 
 ### IDA Example
 
