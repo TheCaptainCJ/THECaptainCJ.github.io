@@ -1,4 +1,4 @@
-
+# Leveling up Cybersecurity skills
 ---
 
 # Cybersecurity Portfolio 
@@ -14,6 +14,7 @@ Here are some useful links related to my work and learning:
 - [LinkedIn](https://www.linkedin.com/in/christopherokeefe93/)
 - [TryHackMe Profile](https://tryhackme.com/p/Chritikal)
 
+*TryHackme is a place I use to keep learning and growing*
 ---
 
 ## My Work
@@ -22,8 +23,10 @@ Here are some useful links related to my work and learning:
 
 *Malware showcasing Businesslayer*
 ![Screenshot 1](Malware.png)
-*Malware businessimprovementlayer domains*
+
+*Malware 'businessimprovementlayer' domains*
 ![Screenshot 2](Malware_domain.png)
+
 *Malware backdoor*
 ![Screenshot 3](Malware_backdoor.png)
 
@@ -58,12 +61,12 @@ Here are some useful links related to my work and learning:
 
 ## Project Documents
 
-### Cybersecurity Incident Report: Network Traffic Analysis
+### Cybersecurity Capstone Project: Understanding malware and how to deal with it safely.
 
 - **Summary**: Provides a detailed Report I made on how to safely deal with Malware.
 - [View Document](Chris_OKeefe_Malware_Analysis_Complete.docx)
 
-### Network Documentation Assignment
+### Networking Capstone: Network Documentation 
 
 - **Overview**: Comprehensive documentation of network devices, configurations, and security policies for a fictional enterprise environment.
 - [View Document](My_Network_Documentation_assignment.docx)
@@ -72,7 +75,7 @@ Here are some useful links related to my work and learning:
 
 ## Skills
 
-Here are the classes I am studying and what I have learned:
+Here are the classes I am studying (Cybersecurity Bachelors) and what I have learned:
 
 - **Enterprise Networking Foundation**: Gained foundational knowledge of enterprise-level networking concepts and protocols.
 - **Cybersecurity Programming Foundation**: Developed skills in programming specifically tailored to cybersecurity tasks.
