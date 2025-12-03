@@ -13,7 +13,6 @@ Here are some useful links related to my work and learning:
 
 - [LinkedIn](https://www.linkedin.com/in/christopherokeefe93/)
 - [TryHackMe Profile](https://tryhackme.com/p/Chritikal)
-
 *TryHackme is a place I use to keep learning and growing*
 ---
 
