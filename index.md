@@ -70,7 +70,7 @@ Here are some useful links related to my work and learning:
 
 ## Skills
 
-Here are the classes I am studying (Cybersecurity Bachelors) and what I have learned:
+Here are the classes I studied (Cybersecurity Bachelors)
 
 - **Enterprise Networking Foundation**: Gained foundational knowledge of enterprise-level networking concepts and protocols.
 - **Cybersecurity Programming Foundation**: Developed skills in programming specifically tailored to cybersecurity tasks.
