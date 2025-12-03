@@ -21,8 +21,8 @@ Here are some useful links related to my work and learning:
 
 ### Malware Analysis Screenshots
 
-![Screenshot 1](5428a6130dd0aa71e5cee0e4fb2db745.jpeg) ![Screenshot 2]()
-![Screenshot 1]() ![Screenshot 1]()
+![Screenshot 1](Malware.png) ![Screenshot 2](Malware update.png)
+![Screenshot 1](Malware notification.png) ![Screenshot 1]()
 
 
 ### 
