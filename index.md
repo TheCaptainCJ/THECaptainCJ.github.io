@@ -25,7 +25,7 @@ Here are some useful links related to my work and learning:
 
 ### 
 
-![Screenshot 1](Malware update.png)
+![Screenshot 1](Malware notification.png)
 
 *Add more images as needed to highlight your projects.*
 
