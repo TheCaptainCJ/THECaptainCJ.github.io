@@ -23,7 +23,7 @@ Here are some useful links related to my work and learning:
 
 ![Screenshot 1](Malware.png)
 
-![Screenshot 2](Malware domain.png)
+![Screenshot 2](Malware_domain.png)
 
 ### 
 
