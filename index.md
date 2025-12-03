@@ -18,19 +18,33 @@ Here are some useful links related to my work and learning:
 
 ## My Work
 
-### Malware Analysis for SolarWinds Malware
+### Malware Analysis for SolarWinds Malware (DnSpy)
 
 *Malware showcasing Businesslayer*
 ![Screenshot 1](Malware.png)
-*Malware businessimprovelayer domains*
+*Malware businessimprovementlayer domains*
 ![Screenshot 2](Malware_domain.png)
 *Malware backdoor*
 ![Screenshot 3](Malware_backdoor.png)
 
-### SoloarWinds Malware Assignment
+### SolarWinds Malware assignment download.
 
-- **Summary**: Provides an understanding of what to do when you need to find malware through code.
+- **Summary**: Provides an understanding of what to do when you need to find malware through code on dnspy.
 - [View Document](Malware_assignment.docx)
+
+### Wireshark Analysis
+
+![Screenshot 1](Wireshark_1.png)
+![Screenshot 2](Wireshark_2_reset.png)
+![Screenshot 3](Wireshark_3.png)
+
+### Pestudio Assessment
+
+![Screenshot 1](PeStudio_Notes.png)
+
+### IDA Example
+
+![Screenshot 1](IDA.png)
 
 ---
 
@@ -48,12 +62,6 @@ Here are some useful links related to my work and learning:
 
 - **Summary**: Provides a detailed Report I made on how to safely deal with Malware.
 - [View Document](Chris_OKeefe_Malware_Analysis_Complete.docx)
-
-### SoloarWinds Malware Assignment
-
-- **Summary**: Provides an understanding of what to do when you need to find malware through code.
-- [View Document](Malware assignment.docx)
-
 
 ### Network Documentation Assignment
 
@@ -74,42 +82,6 @@ Here are the classes I am studying and what I have learned:
 - **Cybersecurity Penetration Testing**: Hands-on experience with penetration testing tools and techniques.
 - **Cybersecurity Analyst**: Learned to monitor and analyze security incidents and responses.
 - **Cybersecurity Operations**: Gained insights into managing and securing operational cybersecurity environments.
-
----
-
-## Security+ Terminology
-
-Here’s an organized list of key cybersecurity terms:
-
-1. **Confidentiality**: Ensuring information is not disclosed to unauthorized individuals.
-2. **Integrity**: Protecting data from being altered or tampered with.
-3. **Availability**: Ensuring systems and data are accessible when needed.
-4. **Encryption**: Converting data into a secure format to prevent unauthorized access.
-5. **Firewall**: A security device that monitors and controls incoming and outgoing network traffic.
-6. **Phishing**: A cyberattack where attackers trick individuals into providing sensitive information.
-7. **Zero-Day Exploit**: A vulnerability that is exploited before a patch is available.
-8. **Authentication**: Verifying the identity of a user, system, or entity before granting access.
-9. **Authorization**: Granting permissions and access to resources based on authenticated identity.
-10. **Multi-Factor Authentication (MFA)**: Using two or more authentication methods to verify identity.
-11. **Malware**: Software designed to disrupt, damage, or gain unauthorized access to systems.
-12. **Ransomware**: Malware that encrypts a victim’s files and demands payment for their release.
-13. **Denial-of-Service (DoS)**: An attack that disrupts services by overwhelming them with traffic.
-14. **Botnet**: A network of infected devices controlled by an attacker to perform malicious tasks.
-15. **Social Engineering**: Manipulating individuals to divulge confidential information or perform actions.
-16. **Man-in-the-Middle (MitM) Attack**: Intercepting communication between two parties to steal data.
-17. **Public Key Infrastructure (PKI)**: A framework for managing digital certificates and encryption keys.
-18. **Intrusion Detection System (IDS)**: Monitors network traffic for suspicious activity and potential threats.
-19. **Intrusion Prevention System (IPS)**: Actively blocks detected threats in real time.
-20. **Patch Management**: Updating software to fix vulnerabilities or improve functionality.
-
----
-
-
-
-
-
-
-[View on GitHub](https://github.com/yourusername/file-organizer) | [Download Script]()
 
 ---
 
